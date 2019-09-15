@@ -1,0 +1,44 @@
+/* Home/Index */ 
+
+.whole-document {
+    max-width: 60rem;
+    width: 90%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: seagreen;
+    padding: 12px;
+    line-height: 2;
+}
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.text {
+    background-color: lightgreen;
+    text-align: left;
+}
+
+.text h1 {
+    padding: 15px;
+}
+
+.footer {
+    background-color: seagreen;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+/* Projects */
+
+
+/* Resume */
